@@ -2,6 +2,14 @@
 
 > Historial del dossier de la serie «Así lo ve la IA» publicada en Sport.
 
+## [v1.6] - 2026-06-21
+
+**Sport-isms: "es de gol" + "Estados Unidos" en lugar de "en aquel país"**
+
+- *"La paradoja es magnífica"* → *"La paradoja es de gol"*. Más Sport-flavor (frase hecha del aficionado: *"eso fue de gol"*, *"jugada de gol"*), y ahorra 2 caracteres.
+- *"la cifra más alta del fútbol en aquel país"* → *"la cifra más alta del fútbol en Estados Unidos"*. Más directo y journal-style; rompe la elegancia anafórica de "aquel país" a cambio de una claridad inmediata más afín al lector de Sport.
+- Caracteres: 2.023 → **2.022** (dentro de rango canónico 1.875–2.030).
+
 ## [v1.5] - 2026-06-21
 
 **Fix de ambigüedad: aclarado que el 72% de cuota es en México**
