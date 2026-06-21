@@ -2,6 +2,16 @@
 
 > Historial del dossier de la serie «Así lo ve la IA» publicada en Sport.
 
+## [v1.9] - 2026-06-21
+
+**Añadida nota de fuentes documentales para el #8**
+
+- `articulos/08-mundial-sin-gradas-fuentes.md` con el respaldo periodístico de cada dato del artículo verificado en medios tier-1 a 21 jun 2026: NBC News, NBC Sports, Sports Illustrated, Newsweek, Yahoo Sports, The Athletic, Goal.com, Deadline, Fortune, Consequence, Al Jazeera, NPR.
+- Mapea cada afirmación del artículo a su fuente (audiencias TV, asientos sin vender, dynamic pricing, comisión Marketplace).
+- Incluye respaldo narrativo del *"Mundial sin gradas"* (huecos visibles documentados en Corea-Chequia, Qatar-Suiza, Canadá-Bosnia; colapso del secundario −24% en 30 días; *get-in* Cabo Verde-Arabia a $157; investigación de las fiscalías de NY y NJ; análisis crítico de Fortune).
+- Incluye la **contracrítica anticipada** (lo que dirá FIFA: 99,4% aforo, *"tickets escaneados"*).
+- Pensado para que Sport pueda verificar editorialmente sin necesidad de pedir aclaraciones a los autores.
+
 ## [v1.8] - 2026-06-21
 
 **Consolidación final del autor: dos párrafos, sin Claude, con Infantino nombrado**
