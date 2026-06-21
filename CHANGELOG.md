@@ -2,6 +2,14 @@
 
 > Historial del dossier de la serie «Así lo ve la IA» publicada en Sport.
 
+## [v1.2] - 2026-06-21
+
+**Pulido del #8: la frase de Claude con dato propio**
+
+- Reescrita la frase de Claude para darle dato propio (su característica más distintiva: la **ventana de contexto de un millón de palabras**, real para Claude Opus 4.x). Antes: *"el intelectual, llega a la misma conclusión por otro camino"* — vago, recicla la fórmula del corpus #2. Ahora: *"el intelectual con un millón de palabras en la cabeza, se salta el bolsillo y va al fondo"* — el "se salta el bolsillo" hace contraste limpio con el "tira por la prudencia" de Gemini.
+- Números grandes a dígitos para consistencia interna: *"veintinueve de los ciento cuatro"* → *29 de los 104*; *"noventa de los ciento cuatro"* → *90 de los 104*.
+- Caracteres: 2.002 → **1.998** (sigue en rango canónico 1.875–2.030).
+
 ## [v1.1] - 2026-06-21
 
 **Humanización del #8 «Mundial sin gradas» con sistema Zoopa**
