@@ -2,6 +2,15 @@
 
 > Historial del dossier de la serie «Así lo ve la IA» publicada en Sport.
 
+## [v1.5] - 2026-06-21
+
+**Fix de ambigüedad: aclarado que el 72% de cuota es en México**
+
+- El stat *"México-Sudáfrica, 23,4 millones y un 72% de cuota"* podía leerse, mal, como continuación de la audiencia USA del párrafo anterior. La realidad documentada (Goal.com, Yahoo Sports, Newsnation) es que tanto los **23,4 millones de espectadores** como el **72,1% de cuota de pantalla** son **en México** (la mayor audiencia del fútbol mexicano del siglo XXI; tres de cada cuatro televisores encendidos en el país sintonizando a El Tri).
+- Fix: añadido *"en México"* al final del stat → *"…un 72% de cuota en México."* Ata la cifra al país sin romper el ritmo.
+- Compensación de caracteres: quitado *"de espectadores"* tras los 27,5 millones de USA-Paraguay (el contexto deja claro que son viewers, no dinero). Net: -6 caracteres.
+- Caracteres: 2.028 → **2.023** (dentro de rango canónico 1.875–2.030).
+
 ## [v1.4] - 2026-06-21
 
 **Pasada humanizer + ortografía final para Sport**
