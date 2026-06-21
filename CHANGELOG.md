@@ -2,6 +2,26 @@
 
 > Historial del dossier de la serie «Así lo ve la IA» publicada en Sport.
 
+## [v1.8] - 2026-06-21
+
+**Consolidación final del autor: dos párrafos, sin Claude, con Infantino nombrado**
+
+Nueva reescritura del #8 *"Un Mundial sin gradas"* firmada por los autores. Cambios estructurales y editoriales:
+
+- **Estructura compactada**: pasa de 6 párrafos (v1.7) a **2 párrafos densos**. Una sola pieza, más editorial-magazine.
+- **Casting reducido a dos motores**: Claude sale de esta pieza (queda Gemini + ChatGPT). El "intelectual" desaparece del cuadro y la IA es tratada más como observador analítico que como elenco.
+- **Imágenes nuevas del autor**:
+  - *"La paradoja es para ser analizada a balón parado."* (en lugar de *"es de gol"*).
+  - *"no lo vio quien no tiene televisión."*
+  - *"Los precios, subieron como las tecnológicas en bolsa."*
+  - *"algo de lo que la IA hace mejor que el ser humano."*
+- **Infantino nombrado** directamente en el cierre: *"Infantino lo ha puesto en manos de quienes pueden permitírselo."*
+- **Cuños Sport**: *"sold out"* (en lugar de *"entradas agotadas"*); *"un tercio de los partidos"* (en lugar de *"29 de los 104"*).
+- **Cae el Club World Cup 2025** como precedente.
+- **Cae la cifra 23,4 millones** del México-Sudáfrica (queda solo la cuota 72%).
+
+**Métricas**: 1.911 caracteres / 341 palabras. **Dentro del rango canónico** del corpus (1.875–2.030 / 299–362). Cero em-dashes, cero comillas inventadas, ortografía impecable.
+
 ## [v1.7] - 2026-06-21
 
 **Versión final firmada por los autores del artículo #8**
