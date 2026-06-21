@@ -2,6 +2,25 @@
 
 > Historial del dossier de la serie «Así lo ve la IA» publicada en Sport.
 
+## [v1.7] - 2026-06-21
+
+**Versión final firmada por los autores del artículo #8**
+
+Reescritura completa del #8 *"Un Mundial sin gradas"* (título nuevo, con artículo) entregada por Carlos Ortet y Enric Jové. Sustituye todas las versiones anteriores. Cambios principales:
+
+- **Título**: *"Mundial sin gradas"* → *"Un Mundial sin gradas"* (alineado con el patrón de *"Un Mundial desde el sofá"*).
+- **Estructura**: 6 párrafos (frente a 4 anteriores), con la antítesis paradoja ↔ datos TV ↔ IA aviso separadas para más respiración.
+- **Casting Gemini**: nueva cita *"depende de los precios"* — más fiel al hallazgo del estudio (Gemini sacaba el "precio" en el 85% de respuestas) que la versión anterior.
+- **ChatGPT como "vividor"**: el casting evoluciona de *"disfrutón"* a *"vividor"*; mismo personaje, otro registro.
+- **Nuevas líneas editoriales del autor**:
+  - *"No era un sesgo ni una alucinación: era el modelo de FIFA traducido a sentido común, algo de lo que la IA sabe bastante."*
+  - *"Los que tienen dinero, que suelen ser de ciertos países, llenan los palcos; los que no, llenan los audímetros."*
+  - *"Nos gustaba un Mundial de todos; hoy es de quienes pueden permitírselo."*
+- **Cuño "entradas agotadas"** en lugar de *"no hay billetes"* (registro Sport).
+- **Pieza con "audímetros"** como metonimia de TV ratings (sustituye *"récords de audiencia"*).
+
+**Métricas**: 2.183 caracteres / 393 palabras. **Por encima del rango canónico** del corpus (1.875–2.030 caracteres / 299–362 palabras), por decisión expresa del autor — el artículo es la *señal* de la serie, no su techo. Cero em-dashes, cero comillas inventadas (las citas de IA reflejan los hallazgos cuantitativos del estudio), ortografía impecable.
+
 ## [v1.6] - 2026-06-21
 
 **Sport-isms: "es de gol" + "Estados Unidos" en lugar de "en aquel país"**
