@@ -1,0 +1,9 @@
+# La IA suspende en titulares
+
+La prensa lo contó con el lenguaje del mazazo: *"la impotencia como resumen"*, *"sorpresa mundial"*, *"Vozinha, héroe"*. El 0-0 de España ante Cabo Verde no fue tratado como un simple empate, sino como una grieta en una selección que era considerada una favorita por los suyos. Los periodistas pusieron el foco en la escena: España dominando insulsamente sin premio, Cabo Verde resistiendo históricamente y un portero de 40 años convertido en bastión.
+
+Le pedimos los titulares a la IA, para ver cómo articula ese inicio de torneo. Gemini se decanta por un: *"España tuvo el balón; Cabo Verde, el relato."* ChatGPT articula un relato más académico: *"Dominio sin amenaza: la advertencia matemática del 0-0."* Claude: *"El empate que reveló una España demasiado previsible."* No se ganarían el sueldo redactando titulares.
+
+Ahí aparece el cambio de mirada. El periodismo lee el partido desde el impacto, la incredulidad y el desengaño; es parte. La IA, en cambio, ordena el suceso como síntoma y analiza sus patrones. Los titulares humanos buscan emoción, jerarquía y memoria. Necesitan que el lector entienda que Cabo Verde no sólo empató: hizo historia. Los titulares de IA tienden a sustituir la emoción en diagnóstico. Gemini subraya la batalla narrativa; ChatGPT traduce el partido en eficiencia ofensiva; Claude apunta al problema táctico: España fue reconocible, quizá demasiado. En el detalle, la IA bebe del periodismo y del dato para explicar: posesión alta, poca sorpresa, ataques repetidos y bloque bajo.
+
+Lo sorprendente no es el distinto enfoque, nos lo imaginábamos. La prensa tiene razón al hablar de decepción; la IA acierte o no, se sitúa al lado del seleccionador y los jugadores: no cae en el drama. España no está hundida, pero sí avisada. El 0-0 no fue una sentencia. En cualquier caso es un titular incómodo.

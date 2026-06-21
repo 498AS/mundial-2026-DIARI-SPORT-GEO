@@ -1,0 +1,22 @@
+---
+serie: "Así lo ve la IA"
+orden: 8
+titulo: "Mundial sin gradas"
+autores: [Carlos Ortet, Enric Jové]
+tema: "asistencia estadio vs audiencia TV / dynamic pricing"
+fuente: "borrador junio 2026, con datos del informe GEO + arranque del torneo (ESPN, SI, PBS, Yahoo)"
+---
+
+# Mundial sin gradas
+
+*Por Carlos Ortet y Enric Jové*
+
+El Mundial 2026 bate dos récords a la vez: el más visto y el más vacío. La paradoja es magnífica. USA-Paraguay arrasa con 27,5 millones de espectadores, la cifra más alta de la historia del fútbol en aquel país. México-Sudáfrica, 23,4 millones y un 72% de cuota. Brasil-Marruecos, diez millones solo en Fox. Y mientras el sofá bate la audiencia, el BMO Field se queda con mil entradas sin vender en el debut canadiense; veintinueve de los ciento cuatro partidos arrancaron sin colgar el cartel de "no hay billetes".
+
+Lo curioso es que la IA ya lo había avisado. Cuando un aficionado preguntaba "¿vale la pena ir?", Gemini sacaba el precio en el 85% de sus respuestas; ChatGPT, en el 67%, algo más disfrutón. Menos del 10% animaba abiertamente a ir. No era un sesgo: era el modelo de FIFA traducido a consejo. La final pasó de 6.730 a casi 11.000 dólares, y noventa de los ciento cuatro partidos subieron un 34% entre octubre y abril. La propia FIFA cobra un 30% de comisión en cada reventa de su Marketplace: si tu asiento sube de precio, gana; si baja, también.
+
+ChatGPT te diría "vívelo, pero presupuesta". Gemini, más tertuliano, tira por la prudencia: "depende de tu presupuesto". Claude, el intelectual, llega a la misma conclusión por otro camino: no es un problema de demanda, es un cambio de producto. Y el dinero, cuando un torneo lo monta así, no es una variable: es la regla.
+
+Porque eso es lo que está pasando: el estadio se ha vuelto boutique; el Mundial-TV, la nueva plaza pública. El espectáculo no se ha encogido, se ha desdoblado. Los que tienen dinero llenan los palcos; los que no, llenan los récords de audiencia. La IA no se emocionó con el partidazo, pero leyó el tablero antes que nadie: dijo "depende del presupuesto", y resultó que dependía del código postal.
+
+Hay quien quiere ver el Mundial. Y hay quien puede ir a verlo.

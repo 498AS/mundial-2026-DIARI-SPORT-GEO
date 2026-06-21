@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Word lock files
+~$*.docx
+
+# Local files
+*.local.md
+output/
+.cache/
+
+# API keys
+*.key
+*credentials*
+config.local.*
