@@ -2,6 +2,13 @@
 
 > Historial del dossier de la serie «Así lo ve la IA» publicada en Sport.
 
+## [v1.4] - 2026-06-21
+
+**Pasada humanizer + ortografía final para Sport**
+
+- Auditoría completa del #8 antes de enviar al diario: acentos y tildes (más, vacío, magnífica, México, Sudáfrica, récords, vívelo, también, está, pública, millón, dependía), comillas dobles consistentes, decimales con coma, miles con punto, cero em-dashes, concordancia sg/pl, casting de las 3 IAs en presente.
+- **Fix de exactitud factual**: *"con semifinales que pasaron de 473 a 13 dólares en horas"* → *"con **una semifinal** que pasó de 473 a 13 dólares en horas"*. La realidad documentada por The Athletic, SI y ESPN es **una sola** semifinal del Club World Cup 2025 (Chelsea-Fluminense, MetLife) cayendo de 473,90 a 13,40 dólares. El plural era atacable en un fact-check; el singular es defendible al 100%.
+
 ## [v1.3] - 2026-06-21
 
 **Añadida la referencia al Club World Cup 2025 como precedente verificable**
