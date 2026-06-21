@@ -2,6 +2,16 @@
 
 > Historial del dossier de la serie «Así lo ve la IA» publicada en Sport.
 
+## [v1.3] - 2026-06-21
+
+**Añadida la referencia al Club World Cup 2025 como precedente verificable**
+
+- Nueva línea en P2 después del *"Lo curioso es que la IA ya lo había avisado"*: *"Y eso que no hacía falta una IA: el Club World Cup 2025 ya había hecho el ensayo, con semifinales que pasaron de 473 a 13 dólares en horas."*
+- Decisión narrativa: la IA va primero (continuidad con la serie *Así lo ve la IA*), el Club World Cup justo después como **antídoto a la chulería tecnológica** — humilde, verificable y refuerza el diagnóstico sin presumir.
+- Doble validación implícita: el patrón era humanamente predecible (Club World Cup); la IA solo lo cuantificó (85% / 67% / 10%).
+- Trims para mantener rango canónico: dropeado el aforismo *"Y el dinero, cuando un torneo lo monta así, no es una variable: es la regla."* (redundante con la referencia Club World Cup); *"Por si quedaba alguna duda,"* (humanizer perdible); *"La propia FIFA"* → *"La FIFA"*.
+- Caracteres: 1.998 → **2.028** (dentro de rango canónico 1.875–2.030).
+
 ## [v1.2] - 2026-06-21
 
 **Pulido del #8: la frase de Claude con dato propio**
