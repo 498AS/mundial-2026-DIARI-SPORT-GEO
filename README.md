@@ -51,9 +51,9 @@ mundial-2026-DIARI-SPORT-GEO/
 | 5 | [Tres mundiales en uno](articulos/05-tres-mundiales-en-uno.md) | México · USA · Canadá como sedes | 1.887 |
 | 6 | [La FIFA organiza, YouTube manda](articulos/06-la-fifa-organiza-youtube-manda.md) | Fuentes · ¿quién narra el torneo? | 2.014 |
 | 7 | [Las malas lenguas del Mundial](articulos/07-las-malas-lenguas-del-mundial.md) | Idioma · sesgo lingüístico | 1.915 |
-| 8 | [Mundial sin gradas](articulos/08-mundial-sin-gradas.md) | TV récord + estadios a medias · dynamic pricing | 1.937 |
+| 8 | [Mundial sin gradas](articulos/08-mundial-sin-gradas.md) | TV récord + estadios a medias · dynamic pricing | 2.002 |
 
-**Total**: ~15.600 caracteres · 2.560 palabras · media 1.946 car. / 320 pal.
+**Total**: ~15.700 caracteres · 2.570 palabras · media 1.954 car. / 321 pal.
 
 ---
 

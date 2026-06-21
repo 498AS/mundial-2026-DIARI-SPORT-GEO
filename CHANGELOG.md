@@ -2,6 +2,16 @@
 
 > Historial del dossier de la serie «Así lo ve la IA» publicada en Sport.
 
+## [v1.1] - 2026-06-21
+
+**Humanización del #8 «Mundial sin gradas» con sistema Zoopa**
+
+- Aplicado el humanizer (sistema Smart Brevity + Voz Zoopa de `_system/system_prompt_writerbatch_zoopa.md`): ritmo alternado, frases más directas, ningún jergón corporativo, tono de "colega listo, no marca difundiendo".
+- Nueva apertura con el fragmento **«Estadio medio vacío, TV en récords históricos.»** como gancho de primera línea (la frase resume la paradoja en seis palabras y deja que el cuerpo la desarrolle).
+- Conector conversacional añadido (*"Por si quedaba alguna duda…"*) para introducir el dato del 30% de comisión del FIFA Marketplace sin sonar a informe.
+- Vocabulario variado en repeticiones de "bate récords" → "revienta la audiencia".
+- Caracteres: 1.937 → **2.002** (dentro de rango canónico 1.875–2.030).
+
 ## [v1.0] - 2026-06-21
 
 **Lanzamiento del repo público con el dossier completo**
